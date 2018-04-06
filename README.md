@@ -1,5 +1,5 @@
 # SpamBot
-*Spam anyone you want to!
+*Spam anyone you want to!*
 
 # How to Download
 1. Make sure that `IDLE`/`Python 3.x` and `Tkinter` are installed
